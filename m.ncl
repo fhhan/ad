@@ -32,10 +32,6 @@ v = v*10^-5
 
 
 
-
-
-
-
 type="x11"
 ;tc location
 a=59
